@@ -11,7 +11,7 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 
 <img src="https://image.freepik.com/free-photo/cute-puppies-pomeranian-mixed-breed-pekingese-dog-run-grass-with-happiness_34266-1082.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; size: 24" />
 
 Along with exploring state-of-the-art CNN models for classification and localization, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
 
